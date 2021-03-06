@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-# a coder who breaks everything
+# About me
 
- I’m currently working on github.com/memubot 
+ I’m a coder that breaks everything from pieces to pieces.
+
+# Currently working on:
+
+MEmubot is just a random bot that i make for MEmu discord server. The main target is to actually replace the most 2 common bots named dyno and carl. The reason why is these 2 bots in the server dont do much. Carl only do roles assignment and dyno do moderations. So i decide to create MEmubot to basically do them all + music for rythm replacement.
+
+
 
 
 

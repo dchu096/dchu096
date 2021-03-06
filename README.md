@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#a coder who breaks everything
+
+ I’m currently working on github.com/memubot 
+
+
+
 <!--
 **user096/user096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

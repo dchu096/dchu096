@@ -1,4 +1,4 @@
-[[https://github.com/dchu096/dchu096/blob/main/header.png?raw=true]]
+![header](/header.png)
 
 ### Hi there 👋
 

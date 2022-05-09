@@ -1,4 +1,4 @@
-[[https://github.com/USERNAME/REPOSITORY/blob/main/img/octocat.png]]
+[[https://github.com/dchu096/dchu096/blob/main/header.png?raw=true]]
 
 ### Hi there 👋
 

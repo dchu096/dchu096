@@ -13,11 +13,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,tailwind" />
-  <br/>
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,java" />
 </p>
 
 ---
@@ -30,15 +26,12 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Links
 <p align="center">
-  <a href="https://github.com/dchu096"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:danielchu096@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <!-- Add LinkedIn/Website if you want -->
+  <a href="https://dchu096.me"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/dchu096"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
-
-
+⭐️ *Thanks for stopping by!*

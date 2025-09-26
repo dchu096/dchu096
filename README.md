@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,ts,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,ts,js,html,css" />
 </p>
 
 ---

@@ -29,8 +29,8 @@
 
 <div align="center">
   <a href="https://github.com/dchu096">
-    <img src="https://github-readme-stats.vercel.app/api?username=dchu096&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00F7F7&icon_color=00F7F7" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dchu096&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00F7F7&icon_color=00F7F7" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.daniel-7a4.workers.dev/api?username=dchu096&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00F7F7&icon_color=00F7F7" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.daniel-7a4.workers.dev/api/top-langs/?username=dchu096&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00F7F7&icon_color=00F7F7" height="180" alt="Top Languages" />
   </a>
 </div>
 

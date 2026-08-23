@@ -5,7 +5,7 @@
 
 ```console
 dchu096@hk:~$ whoami
-daniel chu
+Daniel Chu
 
 dchu096@hk:~$ pwd
 /home/dchu096/hong-kong
